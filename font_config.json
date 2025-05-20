@@ -2,9 +2,9 @@
   "defaultFontId": "1_latin_rse",
   "fonts": {
     "1_latin_rse": {
-      "maxLineLength": 208,
-      "numLines": 2,
-      "cursorOverlapWidth": 0,
+      "maxLineLength": 218,
+      "numLines": 3,
+      "cursorOverlapWidth": 2,
       "widths": {
         " ": 3,
         "À": 6,
